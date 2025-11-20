@@ -59,9 +59,9 @@ No son solo calcetines… son tu entrada a la bandita.
 📦 Edición limitada. ¿Te unes con estilo? 😎`,
     // Aquí están los 3 cuadros para imagenes.
     gallery: [
-      BRAND_IMAGE_URL, // La imagen que enviaste
-      "https://picsum.photos/300/300?random=2",
-      "https://picsum.photos/300/300?random=3"
+      "https://i.postimg.cc/RZW9gMFk/Imagen-de-Whats-App-2025-11-20-a-las-15-24-49-34b8c736.jpg", // La imagen que enviaste
+      "https://i.postimg.cc/RZW9gMFk/Imagen-de-Whats-App-2025-11-20-a-las-15-24-49-34b8c736.jpg",
+      "https://i.postimg.cc/RZW9gMFk/Imagen-de-Whats-App-2025-11-20-a-las-15-24-49-34b8c736.jpg"
     ],
     priceTag: "Valor: $10.990 + Envío",
     buttons: [
