@@ -6,7 +6,7 @@ import { ServiceDetails, ServiceId } from './types';
 // ⚠️ IMPORTANTE: Reemplaza esta URL con el link directo de la imagen que acabas de subir.
 // Como soy una IA de texto, no puedo alojar el archivo, pero he preparado todo para que funcione
 // en cuanto pegues el link aquí abajo.
-export const BRAND_IMAGE_URL = "https://via.placeholder.com/800x1200/000000/ffffff?text=PEGA+TU+URL+DE+IMAGEN+AQUI"; 
+export const BRAND_IMAGE_URL = "https://i.postimg.cc/nhzGXWzT/Whisk-b7198ad58bcd4589f634e539038d25e3dr.png"; 
 
 export const BACKGROUND_IMAGE_URL = BRAND_IMAGE_URL; 
 export const PROFILE_IMAGE_URL = BRAND_IMAGE_URL;
