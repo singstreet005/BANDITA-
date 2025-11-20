@@ -9,7 +9,7 @@ import { ServiceDetails, ServiceId } from './types';
 export const BRAND_IMAGE_URL = "https://i.postimg.cc/nhzGXWzT/Whisk-b7198ad58bcd4589f634e539038d25e3dr.png"; 
 
 export const BACKGROUND_IMAGE_URL = BRAND_IMAGE_URL; 
-export const PROFILE_IMAGE_URL = BRAND_IMAGE_URL;
+export const PROFILE_IMAGE_URL = ¨https://i.postimg.cc/RZW9gMFk/Imagen-de-Whats-App-2025-11-20-a-las-15-24-49-34b8c736.jpg¨;
 
 // --- TEXTS ---
 export const BRAND_NAME = "La Bandita";
