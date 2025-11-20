@@ -11,6 +11,10 @@ export const BRAND_IMAGE_URL = "https://i.postimg.cc/nhzGXWzT/Whisk-b7198ad58bcd
 export const BACKGROUND_IMAGE_URL = BRAND_IMAGE_URL; 
 export const PROFILE_IMAGE_URL = "https://i.postimg.cc/RZW9gMFk/Imagen-de-Whats-App-2025-11-20-a-las-15-24-49-34b8c736.jpg";
 
+// 3. MUSICA DE FONDO (Loop)
+// REEMPLAZA EL LINK DE ABAJO POR EL DE TU CANCION MP3
+export const BACKGROUND_MUSIC_URL = "https://soundcloud.com/bandita-del-cerro/la-bandita-del-cerro"; 
+
 // --- TEXTS ---
 export const BRAND_NAME = "La Bandita";
 export const SLOGAN_TEXT = "Todos Somos La bandita! 🦧🦫🦊🦊🐇";
